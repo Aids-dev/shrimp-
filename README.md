@@ -17,3 +17,5 @@ Will try and make it a .jar soon
 ![image](https://user-images.githubusercontent.com/122121537/233217603-9c8902e4-f266-4049-8015-0d8cc36cd285.png)
 
 Shimp Beta gui first version not to good but shrimp++ is better
+
+Shrimp++ is not working so just use shrimp beta for know

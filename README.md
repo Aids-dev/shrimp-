@@ -19,3 +19,5 @@ Will try and make it a .jar soon
 Shimp Beta gui first version not to good but shrimp++ is better
 
 Shrimp++ is not working so just use shrimp beta for know
+
+whole thing is being redone will hopefully be back up soon sorry for the delay

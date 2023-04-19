@@ -11,7 +11,7 @@ Will try and make it a .jar soon
 
 </div>
 
-+ [TBagEazyE](https://github.com/TBagEazyE) - Cracking most of it
++ [TBagEazyE](https://github.com/TBagEazyE) - Cracking most of it. and sharing it
 + [Iknack](https://github.com/Iknack) - help with finishing the Crack and cleaning it afterwards
 
 ![image](https://user-images.githubusercontent.com/122121537/233217603-9c8902e4-f266-4049-8015-0d8cc36cd285.png)
